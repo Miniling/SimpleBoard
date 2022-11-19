@@ -1,0 +1,41 @@
+/* Comment.js */
+.comment-form {
+    display: flex;
+    flex-direction: column;
+}
+.comment-title {
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+.comment-form > button {
+    float: right;
+}
+
+.comment-content {
+    height: 100px;
+    resize: none;
+    padding: 4px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+/* Reple.js */
+.reple-top {
+    border-top: 1px solid lightgray;
+    margin-top: 10px;
+    padding-top: 5px;
+}
+.reple-title {
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.reple-content {
+    height: 60px;
+    resize: none;
+    padding: 4px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
