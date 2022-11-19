@@ -8,7 +8,7 @@ export default function Header() {
     return (
         <>
             <h1 className="banner" onClick={goHome}>
-                📝 Write Your Simple Board !
+                📝 Write Your Simple Board !!!
             </h1>
         </>
     )
